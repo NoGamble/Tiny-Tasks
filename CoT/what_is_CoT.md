@@ -78,11 +78,6 @@ Chain-of-Thought 是一种简单却强大的技术，它通过让大语言模型
 
 ​​未来方向​​：CoT 催生了更多先进的推理技术，如：
 
-∙
-​​Self-Consistency​​: 生成多条推理链，通过“投票”选出最一致的答案。
-
-∙
-​​Tree of Thoughts (ToT)​​: 让模型在每一步推理时探索多种可能性，形成树状结构。
-
-∙
-​​Graph of Thoughts (GoT)​​: 将推理过程建模为更复杂的图结构。
+- Self-Consistency​​: 生成多条推理链，通过“投票”选出最一致的答案。
+- ​Tree of Thoughts (ToT)​​: 让模型在每一步推理时探索多种可能性，形成树状结构。
+- ​​Graph of Thoughts (GoT)​​: 将推理过程建模为更复杂的图结构。
